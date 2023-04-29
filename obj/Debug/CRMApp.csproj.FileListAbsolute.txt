@@ -1,0 +1,8 @@
+C:\Users\fady\Source\Repos\NCI-OOS\bin\Debug\CRMApp.exe.config
+C:\Users\fady\Source\Repos\NCI-OOS\bin\Debug\CRMApp.exe
+C:\Users\fady\Source\Repos\NCI-OOS\bin\Debug\CRMApp.pdb
+C:\Users\fady\Source\Repos\NCI-OOS\obj\Debug\CRMApp.csproj.AssemblyReference.cache
+C:\Users\fady\Source\Repos\NCI-OOS\obj\Debug\CRMApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\fady\Source\Repos\NCI-OOS\obj\Debug\CRMApp.csproj.CoreCompileInputs.cache
+C:\Users\fady\Source\Repos\NCI-OOS\obj\Debug\CRMApp.exe
+C:\Users\fady\Source\Repos\NCI-OOS\obj\Debug\CRMApp.pdb

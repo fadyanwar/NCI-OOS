@@ -21,5 +21,21 @@ namespace CRMApp
             this.ParentAccount = parentAccount;
         }
 
+        public decimal Balance
+        {
+            get;
+            set;
+        }
+
+        public void AddBalance(decimal money)
+        {
+            this.Balance += money;
+            Console.WriteLine("{0} Eures Added to Account", Balance);
+        }
+
+        public void ShowBalance()
+        {
+            Console.WriteLine("Current Balance is: {0} Eures", Balance);
+        }
     }
 }

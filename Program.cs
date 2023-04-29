@@ -38,6 +38,8 @@ namespace CRMApp
             parentAccount.AccountOwner = employee;
 
             Account fadysAccount = new Account(fady, employee, parentAccount);
+            fadysAccount.AddBalance(100);
+            fadysAccount.ShowBalance();
 
 
             Console.WriteLine("Account Holder Details:");
